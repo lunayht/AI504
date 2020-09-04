@@ -1,4 +1,4 @@
-# AI504 Programming for AI Practice
+# AI504 Programming for AI
 Learn and practice essential programming skills for conducting machine learning and deep learning research.
 
 ## Topics
