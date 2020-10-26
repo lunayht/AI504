@@ -1,8 +1,9 @@
+cifar-10-batches-py/
 MNIST/
 celeba/
 img/
 checkpoint/
-20204871-project1.zip
+20204871.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
