@@ -26,10 +26,11 @@ Learn and practice essential programming skills for conducting machine learning 
    - Lecture: 
    - Practice:
 10. Image-To-Text
-   - Lecture:
-   - Practice: 
+    - Lecture:
+    - Practice: 
 11. Transformers
-   - Lecture
+    - Lecture:
+    - Practice:
 12. BERT (& GPT)
 12. Graph Neural Networks
 13. Neural Ordinary Differential Equations
