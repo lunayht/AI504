@@ -20,9 +20,16 @@ Learn and practice essential programming skills for conducting machine learning 
    - Lecture: https://youtu.be/5UxKiIThs-I
    - Practice: https://youtu.be/QKout3TEgWU
 8. Word2Vec + Subword Encoding
-9. Recurrent Neural Network + Sequence-to-Sequence 
+   - Lecture: https://youtu.be/aOVBIRP2_vA
+   - Practice: 
+9. Recurrent Neural Network + Sequence-to-Sequence
+   - Lecture: 
+   - Practice:
 10. Image-To-Text
+   - Lecture:
+   - Practice: 
 11. Transformers
+   - Lecture
 12. BERT (& GPT)
 12. Graph Neural Networks
 13. Neural Ordinary Differential Equations
