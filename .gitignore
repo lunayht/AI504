@@ -5,6 +5,16 @@ img/
 checkpoint/
 20204871.tar.gz
 
+# For Word2Vec
+m.model
+m.vocab
+neg_train.txt
+neg_train.txt.1
+pos_train.txt
+pos_train.txt.1
+train.txt
+train.txt.1
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
