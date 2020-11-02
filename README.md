@@ -35,4 +35,13 @@ Learn and practice essential programming skills for conducting machine learning 
 12. Graph Neural Networks
 13. Neural Ordinary Differential Equations
 
+## General Requirements
+- Python 3
+- jupyter notebook/ jupyterlab
+- Numpy
+- Torch
+- Torch Vision
+- Sklearn
+- Matplotlib
+
 Credit to: Associate Prof Edward Choi, KAIST
