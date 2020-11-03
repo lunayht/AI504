@@ -23,7 +23,7 @@ Learn and practice essential programming skills for conducting machine learning 
    - Lecture: https://youtu.be/aOVBIRP2_vA
    - Practice: https://youtu.be/KBw35w3QuVQ
 9. Recurrent Neural Network + Sequence-to-Sequence
-   - Lecture: 
+   - Lecture: https://youtu.be/R6PDzmMOHXI
    - Practice:
 10. Image-To-Text
     - Lecture:
@@ -45,3 +45,4 @@ Learn and practice essential programming skills for conducting machine learning 
 - Matplotlib
 
 Credit to: Associate Prof Edward Choi, KAIST
+
