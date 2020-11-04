@@ -3,7 +3,7 @@ MNIST/
 celeba/
 img/
 checkpoint/
-20204871.tar.gz
+# 20204871.tar.gz
 
 # For Word2Vec
 m.model
