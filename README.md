@@ -24,7 +24,7 @@ Learn and practice essential programming skills for conducting machine learning 
    - Practice: https://youtu.be/KBw35w3QuVQ
 9. Recurrent Neural Network + Sequence-to-Sequence
    - Lecture: https://youtu.be/R6PDzmMOHXI
-   - Practice:
+   - Practice: https://youtu.be/FglgBa7rc_g 
 10. Image-To-Text
     - Lecture:
     - Practice: 
