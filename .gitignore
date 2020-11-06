@@ -1,3 +1,8 @@
+.DS_Store
+eng-fra.txt
+labels.txt
+reviews.txt
+
 cifar-10-batches-py/
 MNIST/
 celeba/
