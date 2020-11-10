@@ -26,7 +26,7 @@ Learn and practice essential programming skills for conducting machine learning 
    - Lecture: https://youtu.be/R6PDzmMOHXI
    - Practice: https://youtu.be/FglgBa7rc_g 
 10. Image-To-Text
-    - Lecture:
+    - Lecture: https://youtu.be/NoWMhfFI51c
     - Practice: 
 11. Transformers
     - Lecture:
