@@ -29,11 +29,17 @@ Learn and practice essential programming skills for conducting machine learning 
     - Lecture: https://youtu.be/NoWMhfFI51c
     - Practice: https://youtu.be/G7IBb1T2IL4
 11. Transformers
-    - Lecture:
+    - Lecture: https://youtu.be/h8avp8yDKV4
     - Practice:
 12. BERT (& GPT)
+    - Lecture:
+    - Practice:
 12. Graph Neural Networks
+    - Lecture:
+    - Practice
 13. Neural Ordinary Differential Equations
+    - Lecture:
+    - Practice:
 
 ## General Requirements
 - Python 3
