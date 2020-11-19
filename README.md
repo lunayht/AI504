@@ -30,7 +30,7 @@ Learn and practice essential programming skills for conducting machine learning 
     - Practice: https://youtu.be/G7IBb1T2IL4
 11. Transformers
     - Lecture: https://youtu.be/h8avp8yDKV4
-    - Practice:
+    - Practice: https://youtu.be/7lJgMQQoCg8 
 12. BERT (& GPT)
     - Lecture:
     - Practice:
