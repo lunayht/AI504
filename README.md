@@ -22,6 +22,10 @@ Learn and practice essential programming skills for conducting machine learning 
 8. Word2Vec + Subword Encoding
    - Lecture: https://youtu.be/aOVBIRP2_vA
    - Practice: https://youtu.be/KBw35w3QuVQ
+   - References: 
+      - https://github.com/rsennrich/subword-nmt 
+      - http://www.statmt.org/moses/?n=Moses.Baseline 
+      - http://data.statmt.org/wmt17_systems/training/ 
 9. Recurrent Neural Network + Sequence-to-Sequence
    - Lecture: https://youtu.be/R6PDzmMOHXI
    - Practice: https://youtu.be/FglgBa7rc_g 
