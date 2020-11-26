@@ -37,7 +37,7 @@ Learn and practice essential programming skills for conducting machine learning 
     - Practice: https://youtu.be/7lJgMQQoCg8 
 12. BERT (& GPT)
     - Lecture: https://youtu.be/OFUYHRbHqOk 
-    - Practice:
+    - Practice: https://youtu.be/HS94-5QPWt4
 12. Graph Neural Networks
     - Lecture:
     - Practice
