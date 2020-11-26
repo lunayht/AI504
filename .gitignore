@@ -4,6 +4,11 @@ eng-fra.txt
 labels.txt
 reviews.txt
 
+reviews.csv
+sample_vocab.pkl
+best_model_state.bin
+sample_tokenized.txt
+
 BEST_checkpoint_coco_5_cap_per_img_5_min_word_freq.pth.tar
 COCO-toy/
 Flicker8k_Dataset/
