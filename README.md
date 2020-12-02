@@ -39,7 +39,7 @@ Learn and practice essential programming skills for conducting machine learning 
     - Lecture: https://youtu.be/OFUYHRbHqOk 
     - Practice: https://youtu.be/HS94-5QPWt4
 12. Graph Neural Networks
-    - Lecture:
+    - Lecture: https://youtu.be/RRGS9jBBg_M
     - Practice
 13. Neural Ordinary Differential Equations
     - Lecture:
