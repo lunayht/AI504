@@ -1,6 +1,9 @@
 # AI504 Programming for AI
 Learn and practice essential programming skills for conducting machine learning and deep learning research.
 
+## Reference Book
+- https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
+
 ## Topics
 1. Numpy
 2. Scikit-Learn
@@ -55,4 +58,3 @@ Learn and practice essential programming skills for conducting machine learning 
 - Matplotlib
 
 Credit to: Associate Prof Edward Choi, KAIST
-
