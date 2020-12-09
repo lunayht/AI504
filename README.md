@@ -57,4 +57,12 @@ Learn and practice essential programming skills for conducting machine learning 
 - Sklearn
 - Matplotlib
 
+## Papers
+- https://arxiv.org/pdf/1806.09055.pdf
+- https://arxiv.org/pdf/1706.03762.pdf
+- https://arxiv.org/pdf/2005.14165.pdf
+- https://arxiv.org/abs/1310.4546
+- https://deepmind.com/research/publications/mastering-game-go-deep-neural-networks-tree-search
+- https://proceedings.neurips.cc/paper/2017/file/2650d6089a6d640c5e85b2b88265dc2b-Paper.pdf
+
 Credit to: Associate Prof Edward Choi, KAIST
