@@ -45,8 +45,8 @@ Learn and practice essential programming skills for conducting machine learning 
     - Lecture: https://youtu.be/RRGS9jBBg_M
     - Practice: https://youtu.be/tr7nq-4WfEA
 13. Neural Ordinary Differential Equations
-    - Lecture:
-    - Practice:
+    - Lecture: https://youtu.be/sIFnARdTVvE
+    - Practice: https://youtu.be/0oSayyDp2M0
 
 ## General Requirements
 - Python 3
